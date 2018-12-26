@@ -1,2 +1,4 @@
 # PyLife
-A python clone of the popular mobile game BitLife
+
+THIS PRODUCT IS PROTECTED UNDER THE COPYRIGHT LAW OF FAIR USE.  ALL RIGHTS GO TO THE ORIGINAL OWNER.
+
